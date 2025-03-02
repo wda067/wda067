@@ -19,7 +19,7 @@
 ### solved.ac
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wda067)](https://solved.ac/wda067/)
 
-### Blog
+### Blog 🔗
 <a href="https://velog.io/@wda067">
   <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
 </a>
