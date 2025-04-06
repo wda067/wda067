@@ -10,8 +10,8 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <!-- Redis -->
   <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
-  <!-- Amazon AWS -->
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <!-- Kafka -->
+  <img src="https://img.shields.io/badge/Kafka-232F3E?style=for-the-badge&logo=apache-kafka&logoColor=white" />
   <!-- Docker -->
   <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
